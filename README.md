@@ -2,7 +2,7 @@
 - 👀 I’m interested in GPU computing, eyetracking research, electronics, financial markets software and numerical simulations of many kinds
 - 🌱 I’m currently learning quantum computing
 - 💞️ I’m looking to collaborate on hard challenges that can make the world better
-- 📫 How to reach me: mikush.in
+- 📫 How to reach me: [mikush.in](https://mikush.in)
 
 <!---
 dmikushin/dmikushin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
