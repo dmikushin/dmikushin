@@ -7,9 +7,9 @@
 
 You can always find me where research and industrial programming (C/C++ Fortran, Python) and classical supercomputing (MPI, OpenMP) meets modern hardware (GPUs, TPUs, embedded ASICs) and performance optimization (algorithms, profiling, vectorization, etc.). I co-founded Purple Gaze Inc. to show how inexpensive and fast eyetracking systems can be. I enjoy occasional consulting in CUDA, OpenCL, OpenACC and Machine Learning. I earned my PhD from the University of Lausanne by programming supercomputing software for economics and finance.
 
-I bring expertise in GPU-accelerated development to organizations facing challenging computational problems. My skills can help teams to port existing algorithms to leverage NVIDIA H100/GH200 GPUs (including very old legacy source code), implement specialized algorithms for compute-memory balance, and create portable solutions that work across platforms.
+I bring expertise in GPU-accelerated development to organizations facing challenging computational problems. My skills help teams to port existing algorithms to leverage NVIDIA H100/GH200 GPUs (including very old legacy source code), implement specialized algorithms for compute-memory balance, and create portable solutions that work across platforms.
 
-As an active daily user of LLMs for code development, I leverage these AI tools to enhance productivity and problem-solving.
+As an active daily user of LLMs for code development, I leverage AI tools to enhance productivity and problem-solving.
 
 <!---
 dmikushin/dmikushin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
